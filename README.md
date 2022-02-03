@@ -9,7 +9,8 @@
 
 ### Currently developing skills:
 - JavaScript
-- Node.js
+- Unity
+- Blender
 
 ### Future skills i am aspiring to get:
 - Spring
