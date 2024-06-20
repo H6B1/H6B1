@@ -5,20 +5,6 @@
 - 3D modeling 📦
 - electronics 🔌
 
-##
-
-### Currently developing skills:
-- JavaScript
-- Unity
-- Blender
-
-### Future skills i am aspiring to get:
-- Spring
-- React.js
-- three.js
-<br>...
-
-
 ##### I like wolves and huskies 🐺
 
 <!-- https://emojipedia.org -->
